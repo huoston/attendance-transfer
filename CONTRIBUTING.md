@@ -58,7 +58,7 @@ Unsure where to begin? Look for issues labeled:
 
 ```bash
 # Fork the repository on GitHub, then:
-git clone https://github.com/YOUR_USERNAME/attendance-transfer.git
+git clone https://github.com/huoston/attendance-transfer.git
 cd attendance-transfer
 ```
 
@@ -270,7 +270,7 @@ def test_student_id_extraction():
 
 Feel free to:
 - Open an issue with the `question` label
-- Email: huoston.rodriguesbatista@rmit.edu.vn
+- Email: huostonrodrigues@gmail.com
 
 ## 🙏 Thank You!
 

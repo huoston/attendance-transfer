@@ -8,18 +8,19 @@ Automate the transfer of attendance data from Microsoft Forms (QR code responses
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Workflow](#workflow)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [How It Works](#how-it-works)
-- [Examples](#examples)
-- [Requirements](#requirements)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
-- [Author](#author)
+- [Overview](#-overview)
+- [Workflow](#-workflow)
+- [Features](#-features)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [How It Works](#-how-it-works)
+- [File Structure](#-file-structure)
+- [Examples](#-examples)
+- [Requirements](#-requirements)
+- [Troubleshooting](#-troubleshooting)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Author](#-author)
 
 ## 🎯 Overview
 
